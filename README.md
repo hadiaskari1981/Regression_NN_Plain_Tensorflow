@@ -1,3 +1,3 @@
-# Regression_Plain_NN_Tensorflow
+# Regression_NN_Plain_Tensorflow
 Hello
 Using Plain Tensorflow for making a regression model
